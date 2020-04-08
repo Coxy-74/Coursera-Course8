@@ -23,7 +23,7 @@ shhh(library(scales))
 This report presents the outcomes of machine learning models applied to personal fitness device data.
 In particular, the Weightlifting Exercise Dataset (available at <http://groupware.les.inf.puc-rio.br/har>) is analysed to create a suitable machine learning model, with the goal of predicting the manner in which the participants performed the dumbbell biceps curl weightlifting exercise.  
   
-The final model selected was a random forest model, which achieved an expected out-of-sample accuracy of 94%.
+The final model selected was a **Random Forest** model, which achieved an expected out-of-sample accuracy of 94%.
   
   
 # Machine Learning Modelling  
